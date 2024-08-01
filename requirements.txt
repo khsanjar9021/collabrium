@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+fastapi_storage
+pydantic
+asyncpg
+alembic==1.10.0
+psycopg2
+passlib
+bcrypt==4.0.0
+pyjwt
+
